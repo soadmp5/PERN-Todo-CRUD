@@ -1,0 +1,6 @@
+server/node_modules
+server/database.sql
+
+client/node_modules
+client/.gitignore
+client/.git
